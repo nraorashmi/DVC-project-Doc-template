@@ -1,10 +1,10 @@
 # Project information
 site_name: REPO_NAME_OR_SITE_NAME
-# defeine TOC or order of website-
+# define TOC or order of website-
 nav:
   - Home: index.md
 
-site_author: Rashmi Rao
+site_author: Rashmi Narayana Rao
 site_description: >-
   DESCRIPTION
 
